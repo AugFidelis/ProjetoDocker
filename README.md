@@ -12,4 +12,4 @@ docker run -d -p 9090:80 --name augfidelis-docker nginx:1.0
 
 
 -Por último, acessar o container:-
-Abra no navegador 'http://<ip-do-host>:9090'
+Abra no navegador 'http://ip-do-host:9090'
